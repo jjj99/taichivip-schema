@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jjj99.github.io/taichivip-schema/taichi-products.html</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jjj99.github.io/taichivip-schema/taichi-product1.html</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
