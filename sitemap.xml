@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://jjj99.github.io/taichivip-schema/taichi-product1.html</loc>
-  </url>
-  <url>
-    <loc>https://jjj99.github.io/taichivip-schema/taichi-product2.html</loc>
-  </url>
-  ...
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product1.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product2.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product3.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product4.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product5.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product6.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product7.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product8.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product9.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product10.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product11.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product12.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product13.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product14.html</loc></url>
+  <url><loc>https://jjj99.github.io/taichivip-schema/taichi-product15.html</loc></url>
 </urlset>
