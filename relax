@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Course",
+  "name":"太極養生課程",
+  "description":"透過太極拳改善平衡、肌力與自律神經放鬆。",
+  "provider":{
+    "@type":"Organization",
+    "name":"太極VIP",
+    "sameAs":"https://www.taichivip.com/"
+  }
+}
+</script>
